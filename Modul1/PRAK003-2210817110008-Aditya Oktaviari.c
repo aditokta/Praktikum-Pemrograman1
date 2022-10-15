@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Saya Calon Programmer No.1");
+    printf("Andi Berkata \"Saya Pasti Bisa\"");
 
     return 0;
 }
